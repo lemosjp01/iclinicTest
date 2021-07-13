@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.5466a3c2.chunk.js",
-    "main.js.map": "/static/js/main.5466a3c2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.05532479.js",
-    "runtime-main.js.map": "/static/js/runtime-main.05532479.js.map",
-    "static/js/2.a948ff9e.chunk.js": "/static/js/2.a948ff9e.chunk.js",
-    "static/js/2.a948ff9e.chunk.js.map": "/static/js/2.a948ff9e.chunk.js.map",
-    "static/js/3.d933b21d.chunk.js": "/static/js/3.d933b21d.chunk.js",
-    "static/js/3.d933b21d.chunk.js.map": "/static/js/3.d933b21d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.a948ff9e.chunk.js.LICENSE.txt": "/static/js/2.a948ff9e.chunk.js.LICENSE.txt",
-    "static/media/arrow.738f1ce7.svg": "/static/media/arrow.738f1ce7.svg",
-    "static/media/darth-vader.5b59175e.png": "/static/media/darth-vader.5b59175e.png",
-    "static/media/luke-skywalker.7ac8850b.png": "/static/media/luke-skywalker.7ac8850b.png"
+    "main.js": "/iclinic-test/static/js/main.5466a3c2.chunk.js",
+    "main.js.map": "/iclinic-test/static/js/main.5466a3c2.chunk.js.map",
+    "runtime-main.js": "/iclinic-test/static/js/runtime-main.17be361e.js",
+    "runtime-main.js.map": "/iclinic-test/static/js/runtime-main.17be361e.js.map",
+    "static/js/2.5ee6a894.chunk.js": "/iclinic-test/static/js/2.5ee6a894.chunk.js",
+    "static/js/2.5ee6a894.chunk.js.map": "/iclinic-test/static/js/2.5ee6a894.chunk.js.map",
+    "static/js/3.d933b21d.chunk.js": "/iclinic-test/static/js/3.d933b21d.chunk.js",
+    "static/js/3.d933b21d.chunk.js.map": "/iclinic-test/static/js/3.d933b21d.chunk.js.map",
+    "index.html": "/iclinic-test/index.html",
+    "static/js/2.5ee6a894.chunk.js.LICENSE.txt": "/iclinic-test/static/js/2.5ee6a894.chunk.js.LICENSE.txt",
+    "static/media/arrow.738f1ce7.svg": "/iclinic-test/static/media/arrow.738f1ce7.svg",
+    "static/media/darth-vader.5b59175e.png": "/iclinic-test/static/media/darth-vader.5b59175e.png",
+    "static/media/luke-skywalker.7ac8850b.png": "/iclinic-test/static/media/luke-skywalker.7ac8850b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.05532479.js",
-    "static/js/2.a948ff9e.chunk.js",
+    "static/js/runtime-main.17be361e.js",
+    "static/js/2.5ee6a894.chunk.js",
     "static/js/main.5466a3c2.chunk.js"
   ]
 }
