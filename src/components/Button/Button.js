@@ -1,7 +1,7 @@
 import React from 'react'
 import { StyledButton } from './styles'
 
-const Button = ({ height, width, color, bgColor, title, link, weight, size, marginTop }) => (
+const Button = ({ height, width, color, bgColor, title, weight, size, marginTop, onClick, disabled }) => (
 	<StyledButton
 		bgColor={bgColor}
 		color={color}
@@ -10,10 +10,10 @@ const Button = ({ height, width, color, bgColor, title, link, weight, size, marg
 		weight={weight}
 		size={size}
 		marginTop={marginTop}
+		onClick={onClick}
+		disabled={disabled}
 	>
-		<a href={link}>
-			{title}
-		</a>
+		{title}
 	</StyledButton>
 )
 

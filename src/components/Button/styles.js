@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const StyledButton = styled.button`
-  background-color: ${({ bgColor }) => bgColor};
+  background-color: ${({ bgColor, disabled }) => disabled ? 'gray' : bgColor};
   color: ${({ color }) => color};
 	width: ${({ width }) => width ?? '0'}px;
 	height: ${({ height }) => height ?? '0'}px;
@@ -11,9 +11,4 @@ export const StyledButton = styled.button`
 	margin-top: ${({ marginTop }) => marginTop ?? '0'}px;
 	font-weight: ${({ weight }) => weight ?? 'normal'};
 	line-height: 21.94px;
-
-  a {
-    text-decoration: none;
-  	color: ${({ color }) => color};	
-  }
 `
